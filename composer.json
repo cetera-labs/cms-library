@@ -1,0 +1,14 @@
+{
+    "name": "cetera-labs/library",
+    "type": "library",
+    "description": "Сторонние JS-библиотеки старого back-office Fastsite CMS 3.x: ExtJS 4.2, ace, js-beautify, cropper, html-minifier, плагин youtube для CKEditor",
+    "homepage": "https://github.com/cetera-labs/cms-library",
+    "license": ["GPL-3.0-only", "BSD-3-Clause", "MIT", "LGPL-2.1-or-later"],
+    "authors": [
+        {
+            "name": "Roman Romanov",
+            "email": "nicodim@mail.ru"
+        }
+    ],
+    "require": {}
+}
